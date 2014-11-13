@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: olatadm
+Build-Jdk: 1.6.0_23
+Hudson-Build-Number: 9
+Hudson-Project: BUILD-OLAT-7.8.x
+Hudson-Version: 2.0.1
+
